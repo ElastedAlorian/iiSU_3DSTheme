@@ -1,0 +1,22 @@
+Flags.TopDrawType               : Texture
+Flags.BottomDrawType            : Texture
+Flags.TopFrameType              : Single
+Flags.BottomFrameType           : Single
+Flags.TopCornerButtonColor      : True
+Flags.BottomBackgroundInnerColor: False
+Flags.BottomBackgroundOuterColor: False
+Flags.BottomCornerButtonColor   : True
+Flags.OpenCloseColor            : False
+Flags.FolderBackgroundColor     : True
+Flags.FolderColor               : True
+Flags.FolderArrowColor          : False
+Flags.FileColor                 : False
+Flags.CursorColor               : True
+Flags.ArrowButtonColor          : False
+Flags.ArrowColor                : True
+Flags.GameTextDrawType          : Default
+Flags.DemoTextColor             : False
+Flags.BackgroundMusic           : False
+Flags.FileTexture               : False
+Flags.FolderTexture             : False
+Flags.SoundEffect               : False
