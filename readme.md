@@ -6,6 +6,8 @@ This was mostly completed within a day, though the sound part did baffle me a bi
 
 The "Website Dots" variants of the backgrounds were adjusted versions of the iiSU website's background to where it was isolated. Then the standard varaints were from more "traditional upload" of the iiSU wallpapers I found online. Then the "Decorated" variant was taken from iiSU's files itself and then adjusted a bit to make sense.
 
+Colors look slightly better on console.
+
 ## NOTICE
 
 ***This theme is not made, affiliated, nor endorsed by iiSU nor Nintendo!***
@@ -16,7 +18,7 @@ Nintendo 3DS and related terms are trademarks belonging to Nintendo.
 ## Installation
 
 Put any of the variations into your SD card's "themes" folder and then select within Anemone3DS and presto!
-Press \[SELECT] to then exit the app and then the theme should appear on your home menu!
+Press \[START] to then exit the app and then the theme should appear on your home menu!
 
 
 
